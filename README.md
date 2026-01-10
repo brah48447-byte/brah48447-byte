@@ -1,4 +1,4 @@
-## Hi there 👋
+## SO, i like coding in python, and im a new github user.
 
 <!--
 **brah48447-byte/brah48447-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
